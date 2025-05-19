@@ -110,7 +110,7 @@ Follow these steps to set up the project on your local machine:
 ## 👨‍💻 Developed By
 
 **Arnav Kumar Patel**  
-Department of Computer Science & Engineering  
+School of Computer Science & Engineering  
 [GitHub](https://github.com/your-github-username)
 
 ---
